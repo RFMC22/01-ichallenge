@@ -329,7 +329,7 @@ section{
   top: 50%;
   transform: translateY(-50%);
 }
-section h1{
+section h2{
   margin-top: -10px;
   font-size: 2em;
   font-weight: 700;
